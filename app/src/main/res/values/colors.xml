@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary">#FF6B3D</color>  <!-- Warm orange -->
+    <color name="primary_light">#FF9D6B</color>  <!-- Light orange -->
+    <color name="primary_dark">#E55A2B</color>  <!-- Dark orange -->
+    
+    <!-- Secondary colors -->
+    <color name="secondary">#FFD700</color>  <!-- Warm yellow -->
+    <color name="secondary_light">#FFE44D</color>  <!-- Light yellow -->
+    <color name="secondary_dark">#FFC107</color>  <!-- Dark yellow -->
+    
+    <!-- Background colors -->
+    <color name="background">#FFFF88</color>  <!-- Bright yellow for cooking theme -->
+    <color name="surface">#FFFFFF</color>  <!-- Pure white -->
+    <color name="card_background">#FFFFFF</color>  <!-- Card background -->
+    
+    <!-- Text colors -->
+    <color name="text_primary">#2C1810</color>  <!-- Dark brown -->
+    <color name="text_secondary">#5D4037</color>  <!-- Medium brown -->
+    <color name="text_hint">#9E9E9E</color>  <!-- Gray -->
+    
+    <!-- Accent colors -->
+    <color name="accent_green">#4CAF50</color>  <!-- Fresh green -->
+    <color name="accent_red">#F44336</color>  <!-- Spicy red -->
+    
+    <!-- System colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- New color for input field hints -->
+    <color name="hint_dark">#444444</color> <!-- Dark gray for input hints -->
+</resources>

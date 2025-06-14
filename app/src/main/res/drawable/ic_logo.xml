@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="48dp"
+    android:viewportWidth="240"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,36h-8v-2h8v2zM26,12v-2h-8v2h8zM12,12h-2v24h2v-24zM26,36h-2v-24h2v24z" />
+    <text
+        android:fontFamily="cursive"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:text="TanggaltoEat" />
+</vector> 
