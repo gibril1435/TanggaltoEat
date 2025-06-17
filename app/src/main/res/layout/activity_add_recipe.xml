@@ -31,7 +31,8 @@
             app:boxStrokeColor="@color/primary"
             app:boxStrokeWidth="2dp"
             app:boxBackgroundColor="@color/surface"
-            app:hintTextColor="@color/hint_dark">
+            app:hintTextColor="@color/hint_dark"
+            android:textColorHint="#FF000000">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etRecipeName"
@@ -52,7 +53,8 @@
             app:boxStrokeColor="@color/primary"
             app:boxStrokeWidth="2dp"
             app:boxBackgroundColor="@color/surface"
-            app:hintTextColor="@color/hint_dark">
+            app:hintTextColor="@color/hint_dark"
+            android:textColorHint="#FF000000">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etAuthorName"
@@ -73,7 +75,8 @@
             app:boxStrokeColor="@color/primary"
             app:boxStrokeWidth="2dp"
             app:boxBackgroundColor="@color/surface"
-            app:hintTextColor="@color/hint_dark">
+            app:hintTextColor="@color/hint_dark"
+            android:textColorHint="#FF000000">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etIngredients"
@@ -96,7 +99,8 @@
             app:boxStrokeColor="@color/primary"
             app:boxStrokeWidth="2dp"
             app:boxBackgroundColor="@color/surface"
-            app:hintTextColor="@color/hint_dark">
+            app:hintTextColor="@color/hint_dark"
+            android:textColorHint="#FF000000">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etTools"
@@ -119,7 +123,8 @@
             app:boxStrokeColor="@color/primary"
             app:boxStrokeWidth="2dp"
             app:boxBackgroundColor="@color/surface"
-            app:hintTextColor="@color/hint_dark">
+            app:hintTextColor="@color/hint_dark"
+            android:textColorHint="#FF000000">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etSteps"
@@ -142,4 +147,4 @@
 
     </LinearLayout>
 
-</ScrollView> 
+</ScrollView>
